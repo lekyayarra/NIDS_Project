@@ -87,3 +87,16 @@ The Streamlit dashboard provides:
 
 ```bash
 git clone YOUR_GITHUB_REPOSITORY_URL
+## 🖥️ Dashboard Screenshots
+
+### 🏠 Home Dashboard
+
+![NIDS Home Dashboard](screenshots/home.png)
+
+### 🚨 Traffic Detection
+
+![Traffic Detection](screenshots/traffic_detection.png)
+
+### 📊 Model Evaluation
+
+![Model Evaluation](screenshots/model_evaluation.png)
